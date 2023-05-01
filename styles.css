@@ -1,0 +1,27 @@
+.flexbox1 {
+    display: flex;
+    
+}
+.flexbox1 :first-child {
+    margin-right: 70px;
+}
+.flexbox2 {
+    display: flex;
+    
+}
+.flexbox2 :first-child {
+    margin-right: 70px;
+}
+.img1 {
+    transform: translate(700px,-250px);
+    z-index: 10;
+    position: relative;
+}
+.img3 {
+    transform: translate(300px,-150px);
+    width: 500px;
+    height: 200px;
+}
+.img2 {
+    transform: translate(740px,-350px)
+}
